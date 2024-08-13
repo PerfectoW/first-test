@@ -1,0 +1,86 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "arrayPush",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "f",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[3]",
+						"name": "_data",
+						"type": "uint256[3]"
+					}
+				],
+				"name": "g",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "initStudent4",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"First test/06-ArrayAndStruct.sol": "ArrayTypes"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"First test/06-ArrayAndStruct.sol": {
+			"keccak256": "0xf538e79f37bbede5638ca8188427fc24a417a3efe65b7221e16328ade44927da",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://091cad71ebe9a05f75a6a9f7ba8915f4370e2f30cda40e5051360c4f1653d36f",
+				"dweb:/ipfs/QmSrkwAd5ebGqRwQkdbYDsWwtkvY2xdLAmrd9V56U2v8pg"
+			]
+		}
+	},
+	"version": 1
+}
