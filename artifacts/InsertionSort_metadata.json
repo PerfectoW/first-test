@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "forLoopTest",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number",
+						"type": "uint256"
+					}
+				],
+				"name": "ifElseTest",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"First test/10-InsertionSort.sol": "InsertionSort"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"First test/10-InsertionSort.sol": {
+			"keccak256": "0x059a0abe4a35b3a63f9a9dd1fb1dc4c410953a448086c6a8d109e6cc6740fa40",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1c2bbeaeb372c35e98ecd4ed5b7fb8e2264f9b5e1211d457f38bbf1214b70105",
+				"dweb:/ipfs/QmPCJBzSysvsxkds7jAANdqKA9gXK1gjUJ6VbynXfpFRTy"
+			]
+		}
+	},
+	"version": 1
+}
